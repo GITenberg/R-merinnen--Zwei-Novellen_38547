@@ -1,0 +1,33 @@
+_repo: R-merinnen--Zwei-Novellen_38547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Beyle, Marie Henri
+    - Marie-Henri Beyle
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia: http://en.wikipedia.org/wiki/Stendhal
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38547'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into German'
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+tableOfContents: Vanina Vanini -- Die Fürstin von Campobasso.
+title: 'Römerinnen: Zwei Novellen'
+url: http://www.gutenberg.org/ebooks/38547
